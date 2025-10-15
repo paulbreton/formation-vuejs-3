@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// TODO: props value placeholder
+// TODO: Exercice 2 : props value placeholder
 defineProps<{}>()
 
 defineEmits<{}>()

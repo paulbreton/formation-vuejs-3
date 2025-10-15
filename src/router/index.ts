@@ -36,6 +36,6 @@ const router = createRouter({
   ],
 })
 
-// TODO: mettre un place des pages accessible uniquement pour les utilisateurs authentifié
+// TODO: Exercice complet : Mettre un place des pages accessible uniquement pour les utilisateurs authentifié
 
 export default router

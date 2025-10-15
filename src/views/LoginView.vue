@@ -2,6 +2,6 @@
 </script>
 
 <template>
-  <!-- TODO: Faire un formulaire de connexion pour authentifier un utilisateur -->
+  <!-- TODO: Exercice complet : Faire un formulaire de connexion pour authentifier un utilisateur -->
   <div>Page de connexion</div>
 </template>

@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia'
 
-// TODO: store utilisateur connecté
+// TODO: Exercice complet : store utilisateur connecté
 export const useAuthStore = defineStore('auth', () => {
   return {}
 })
